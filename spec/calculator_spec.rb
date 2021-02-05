@@ -1,4 +1,9 @@
-# Code your solution in calculator.rb
+first_number = 10
+second_number = 5
+add = first_number + second_number
+difference = first number - second_number
+product = first_number * second_number
+quotient = first_number / second_number
 
 describe "./calculator.rb" do
 
