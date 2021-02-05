@@ -2,7 +2,7 @@ def new_variable1
   puts first_number
 end
 
-first_number = 10.to_i
+first_number = 10
 
 
 describe "./calculator.rb" do
