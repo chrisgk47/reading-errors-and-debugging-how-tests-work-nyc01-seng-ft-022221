@@ -1,6 +1,4 @@
-def add(first_number, second_number)
-  puts "#{first_number} + #{second_number}"
-end
+first_number.to_i = 10
 
 
 describe "./calculator.rb" do
