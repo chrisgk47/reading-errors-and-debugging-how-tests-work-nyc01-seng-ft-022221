@@ -1,4 +1,4 @@
-first_number = first_number.to_i
+first_number = 10.to_i
 
 
 describe "./calculator.rb" do
