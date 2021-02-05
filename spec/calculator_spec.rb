@@ -1,5 +1,7 @@
-first_number = gets.to_i
-second_number = gets.topics
+def add(first_number, second_number)
+  puts first_number + second_number
+end
+
 
 describe "./calculator.rb" do
 
