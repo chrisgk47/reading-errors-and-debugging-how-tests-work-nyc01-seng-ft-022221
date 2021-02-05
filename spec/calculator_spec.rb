@@ -1,8 +1,5 @@
-def new_variable1
-  puts first_number
-end
+first_number = "Hello worll"
 
-first_number = 10
 
 
 describe "./calculator.rb" do
