@@ -1,13 +1,5 @@
-first_number = 10
-second_number = 5
-
-def add( first_number, second_number)
-  puts first_number + second_number
-end
-
-difference = first_number - second_number
-product = first_number * second_number
-quotient = first_number / second_number
+first_number = gets.to_i
+second_number = gets.topics
 
 describe "./calculator.rb" do
 
