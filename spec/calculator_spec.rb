@@ -1,6 +1,10 @@
-first_number.to_i = 10
-second_number.to_i = 5
-add = first_number + second_number
+first_number = 10
+second_number = 5
+
+def add
+  puts first_number + second_number
+end
+
 difference = first_number - second_number
 product = first_number * second_number
 quotient = first_number / second_number
