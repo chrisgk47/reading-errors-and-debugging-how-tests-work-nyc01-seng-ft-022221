@@ -1,5 +1,5 @@
 def add(first_number, second_number)
-  puts first_number + second_number
+  puts "#{first_number} + #{second_number}"
 end
 
 
