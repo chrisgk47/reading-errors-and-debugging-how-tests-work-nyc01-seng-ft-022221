@@ -1,7 +1,7 @@
 first_number = 10
 second_number = 5
 
-def add
+def add( first_number, second_number)
   puts first_number + second_number
 end
 
