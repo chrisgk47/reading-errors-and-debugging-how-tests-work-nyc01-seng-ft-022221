@@ -1,5 +1,8 @@
 require_relative '../calculator.rb'
 
+first_number = first_number.to_i
+second_number = second_number.to_i
+
 RSpec.configure do |config|
   config.order = 'default'
 end
